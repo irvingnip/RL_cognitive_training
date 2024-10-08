@@ -1,0 +1,9 @@
+[submodule "dopamine-vgdl"]
+	path = dopamine-vgdl
+	url = https://github.com/SergioArnaud/dopamine.git
+[submodule "EfficientZero"]
+	path = EfficientZero
+	url = https://github.com/SergioArnaud/EfficientZero.git
+[submodule "pybrain"]
+	path = pybrain
+	url = https://github.com/SergioArnaud/pybrain-python3.git

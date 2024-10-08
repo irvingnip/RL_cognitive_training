@@ -1,0 +1,10 @@
+*.DS_STORE
+object_interaction_histories/**
+pickleFiles/**
+
+*~
+*.pyc
+*.simg
+venv/
+__pycache__/
+experiments/**

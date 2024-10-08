@@ -1,0 +1,5 @@
+experiment_timestep,episode,episode_score,timestep_episode,best_score,accumulated_score
+900,0,0,900,0,-1.0
+1800,0,0,1800,0,-6.0
+2700,0,1.0,2700,1.0,-10.0
+3600,0,1.0,3600,1.0,-15.0

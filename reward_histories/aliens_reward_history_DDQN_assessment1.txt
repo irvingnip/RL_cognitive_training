@@ -1,0 +1,173 @@
+Player Performance Assessments:
+========================================
+Assessment after 1 steps:
+Awaiting first assessment...
+Overall average DDQN performance score after 1 steps: 0.00
+========================================
+Assessment after 6 steps:
+Your score is 0.9195710182189941. Excellent performance.
+Overall average DDQN performance score after 6 steps: 0.46
+========================================
+Assessment after 11 steps:
+Your score is 0.9325198411941529. Excellent performance.
+Overall average DDQN performance score after 11 steps: 0.62
+========================================
+Assessment after 16 steps:
+Your score is 0.923764455318451. Excellent performance.
+Overall average DDQN performance score after 16 steps: 0.69
+========================================
+Assessment after 21 steps:
+Your score is 0.9256585597991943. Excellent performance.
+Overall average DDQN performance score after 21 steps: 0.74
+========================================
+Assessment after 26 steps:
+Your score is 0.9641764760017395. Excellent performance.
+Overall average DDQN performance score after 26 steps: 0.78
+========================================
+Assessment after 31 steps:
+Your score is 0.9410211563110351. Excellent performance.
+Overall average DDQN performance score after 31 steps: 0.80
+========================================
+Assessment after 36 steps:
+Your score is 0.9614988923072815. Excellent performance.
+Overall average DDQN performance score after 36 steps: 0.82
+========================================
+Assessment after 41 steps:
+Your score is 0.8507421851158142. Excellent performance.
+Overall average DDQN performance score after 41 steps: 0.82
+========================================
+Assessment after 46 steps:
+Your score is 0.8140790104866028. Excellent performance.
+Overall average DDQN performance score after 46 steps: 0.82
+========================================
+Assessment after 51 steps:
+Your score is 0.8717194676399231. Excellent performance.
+Overall average DDQN performance score after 51 steps: 0.83
+========================================
+Assessment after 56 steps:
+Your score is 0.9218674898147583. Excellent performance.
+Overall average DDQN performance score after 56 steps: 0.84
+========================================
+Assessment after 61 steps:
+Your score is 0.8421009302139282. Excellent performance.
+Overall average DDQN performance score after 61 steps: 0.84
+========================================
+Assessment after 66 steps:
+Your score is 0.8699385643005371. Excellent performance.
+Overall average DDQN performance score after 66 steps: 0.84
+========================================
+Assessment after 71 steps:
+Your score is 0.9003051161766052. Excellent performance.
+Overall average DDQN performance score after 71 steps: 0.84
+========================================
+Assessment after 76 steps:
+Your score is 0.8625532746315002. Excellent performance.
+Overall average DDQN performance score after 76 steps: 0.84
+========================================
+Assessment after 81 steps:
+Your score is 0.8957162261009216. Excellent performance.
+Overall average DDQN performance score after 81 steps: 0.85
+========================================
+Assessment after 86 steps:
+Your score is 0.9252618670463562. Excellent performance.
+Overall average DDQN performance score after 86 steps: 0.85
+========================================
+Assessment after 91 steps:
+Your score is 1.0368845820426942. Excellent performance.
+Overall average DDQN performance score after 91 steps: 0.86
+========================================
+Assessment after 96 steps:
+Your score is 1.008198583126068. Excellent performance.
+Overall average DDQN performance score after 96 steps: 0.87
+========================================
+Assessment after 101 steps:
+Your score is 0.9410317897796631. Excellent performance.
+Overall average DDQN performance score after 101 steps: 0.87
+========================================
+Assessment after 106 steps:
+Your score is 0.9178289413452149. Excellent performance.
+Overall average DDQN performance score after 106 steps: 0.87
+========================================
+Assessment after 111 steps:
+Your score is 0.9799828290939331. Excellent performance.
+Overall average DDQN performance score after 111 steps: 0.88
+========================================
+Assessment after 116 steps:
+Your score is 0.8492419481277466. Excellent performance.
+Overall average DDQN performance score after 116 steps: 0.88
+========================================
+Assessment after 121 steps:
+Your score is 0.9329828143119812. Excellent performance.
+Overall average DDQN performance score after 121 steps: 0.88
+========================================
+Assessment after 126 steps:
+Your score is 0.8612988471984864. Excellent performance.
+Overall average DDQN performance score after 126 steps: 0.88
+========================================
+Assessment after 131 steps:
+Your score is 0.7869434833526612. Not bad. Keep improving!
+Overall average DDQN performance score after 131 steps: 0.88
+========================================
+Assessment after 136 steps:
+Your score is 0.9044548273086548. Excellent performance.
+Overall average DDQN performance score after 136 steps: 0.88
+========================================
+Assessment after 141 steps:
+Your score is 1.0730427145957946. Excellent performance.
+Overall average DDQN performance score after 141 steps: 0.88
+========================================
+Assessment after 146 steps:
+Your score is 1.0073725581169128. Excellent performance.
+Overall average DDQN performance score after 146 steps: 0.89
+========================================
+Assessment after 151 steps:
+Your score is 1.0231969118118287. Excellent performance.
+Overall average DDQN performance score after 151 steps: 0.89
+========================================
+Assessment after 156 steps:
+Your score is 0.8972558379173279. Excellent performance.
+Overall average DDQN performance score after 156 steps: 0.89
+========================================
+Assessment after 161 steps:
+Your score is 0.9517471075057984. Excellent performance.
+Overall average DDQN performance score after 161 steps: 0.89
+========================================
+Assessment after 166 steps:
+Your score is 1.0052842259407044. Excellent performance.
+Overall average DDQN performance score after 166 steps: 0.90
+========================================
+Assessment after 171 steps:
+Your score is 1.027992570400238. Excellent performance.
+Overall average DDQN performance score after 171 steps: 0.90
+========================================
+Assessment after 176 steps:
+Your score is 0.8774195313453674. Excellent performance.
+Overall average DDQN performance score after 176 steps: 0.90
+========================================
+Assessment after 181 steps:
+Your score is 0.9290018796920776. Excellent performance.
+Overall average DDQN performance score after 181 steps: 0.90
+========================================
+Assessment after 186 steps:
+Your score is 0.9918511748313904. Excellent performance.
+Overall average DDQN performance score after 186 steps: 0.90
+========================================
+Assessment after 191 steps:
+Your score is 0.8677648067474365. Excellent performance.
+Overall average DDQN performance score after 191 steps: 0.90
+========================================
+Assessment after 196 steps:
+Your score is 0.7606616854667664. Not bad. Keep improving!
+Overall average DDQN performance score after 196 steps: 0.90
+========================================
+Assessment after 201 steps:
+Your score is 0.8287067890167237. Excellent performance.
+Overall average DDQN performance score after 201 steps: 0.90
+========================================
+Assessment after 206 steps:
+Your score is 0.8944113612174988. Excellent performance.
+Overall average DDQN performance score after 206 steps: 0.90
+========================================
+Assessment after 211 steps:
+Your score is 0.7858348250389099. Not bad. Keep improving!
+Overall average DDQN performance score after 211 steps: 0.89
