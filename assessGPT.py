@@ -321,7 +321,8 @@ config = {
     'max_steps': 1000,
     'timeout': 5000,
     'trial_num': 1,
-    'api_key': 'sk-None-yrHBAgE1q3WBsVi3NB0MT3BlbkFJWGSZkgHGXfgT3sV2YTBF'
+    # use your own key
+    'api_key': '' 
 }
 
 player = Player(config)
